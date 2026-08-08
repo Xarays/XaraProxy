@@ -46,6 +46,7 @@ python main.py
 ```
 pip install pyinstaller
 pyinstaller XaraProxy.spec
+(Альтернативный вариант: python -m PyInstaller XaraProxy.spec)
 ```
 
 Файл появится в dist/XaraProxy.exe

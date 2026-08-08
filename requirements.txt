@@ -1,0 +1,5 @@
+PyQt5>=5.15,<6.0
+requests>=2.31
+PySocks>=1.7.1
+psutil>=5.9
+pywin32>=306
